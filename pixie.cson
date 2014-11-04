@@ -1,0 +1,4 @@
+version: "0.1.0"
+remoteDependencies: [
+  "https://cdnjs.cloudflare.com/ajax/libs/q.js/1.0.1/q.min.js" # Just for testing
+]
